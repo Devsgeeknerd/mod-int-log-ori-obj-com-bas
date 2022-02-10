@@ -93,7 +93,7 @@
 > Coloca cor, que pode ser usado tanto na linha como na coluna.
 
 <!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+## TABELA DE CONTEÚDO
 
 <!-- - [Vista por cima](#vista-por-cima) -->
 <!--  - [Foto da tela](#foto-da-tela) -->
@@ -105,7 +105,7 @@
 <!--  - [Recusos úteis](#recursos-úteis) -->
 <!-- - [Autor](#autor) -->
 <!-- - [Agradecimentos](#agradecimentos) -->
-<!-- - [Informações](#informações) -->
+- [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
