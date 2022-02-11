@@ -5,91 +5,85 @@
   <table></table>
 ```
 
+* ***table***
 > Criar a tabela.
-
-* ***width***
 
 ```html
   <table width=""></table>
 ```
 
+* ***width***
 > É a largura da tabela.
-
-* ***border***
 
 ```html
   <table border=""></table>
 ```
 
+* ***border***
 > É a borda da tabela.
-
-* ***colspan***
 
 ```html
   <table colspan=""></table>
 ```
 
+* ***colspan***
 > Meclar as colunas.
-
-* ***rowspan***
 
 ```html
   <table rowspan=""></table>
 ```
 
+* ***rowspan***
 > Mesclar as linhas.
 
 ```html
   <tr></tr>
 ```
 
+* ***tr***
 > Inseri as linhas.
 
 ```html
   <td></td>
 ```
 
+* ***td***
 > Inseri as colunas.
-
-* ***align***
 
 ```html
   <td align=""></td>
 ```
 
+* ***align***
 > Alinha o texto.
-
-* ***left***
 
 ```html
   <td align="left"></td>
 ```
 
+* ***left***
 > Alinha a esquerda.
-
-* ***right*** 
 
 ```html
   <td align="right"></td>
 ```
 
+* ***right*** 
 > Alinha a direita.
-
-* ***center*** 
 
 ```html
   <td align="center"></td>
 ```
 
+* ***center*** 
 > Alinha ao centro.
-
-* ***bgcolor***
 
 ```html
   <tr bgcolor=""></tr>
   <td bgcolor=""></td>
 ```
 
+* ***bgcolor***
 > Coloca cor, que pode ser usado tanto na linha como na coluna.
 
 <!-- TABLE OF CONTENTS -->
