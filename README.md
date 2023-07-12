@@ -5,7 +5,7 @@
 
 * [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-int-log-ori-obj-com-bas) &#128679;
 * [x] [O Que São Interfaces?](https://github.com/Devsgeeknerd/cla-o-que-sao-int-int-log-ori-obj-com-bas) &#128679;
-* [ ] [Interfaces e UML.](https:/ggithub.com/Devsgeeknerd/cla-int-uml-int-log-ori-obj-com-bas) &#128679;
+* [ ] [Interfaces e UML.](https:/github.com/Devsgeeknerd/cla-int-uml-int-log-ori-obj-com-bas) &#128679;
 * [ ] [Começando Com as Interfaces.](https://github.com/Devsgeeknerd/cla-com-com-int-int-log-ori-obj-com-bas) &#128679;
 * [ ] [Continuando Com Interfaces.](https://github.com/Devsgeeknerd/cla-con-com-int-int-log-ori-obj-com-bas) &#128679;
 * [ ] [Orientação a Objetos, LSP e Polimorfismo.](https://github.com/Devsgeeknerd/cla-ori-obj-lsp-pol-int-log-ori-obj-com-bas) &#128679;
